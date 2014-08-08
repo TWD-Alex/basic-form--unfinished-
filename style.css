@@ -1,0 +1,28 @@
+.right_div{
+	color: white;
+	background-color: red;
+	padding: 30px;
+	float: right;
+	clear: both;
+}
+.contact_form{
+	color: white;
+	background-color: red;
+	padding: 30px;
+	float: left;
+}
+
+p{
+	color: white;
+}
+
+
+.website_needs_text{
+	border-radius: 20px;
+	outline: none;
+}
+
+.description_form{
+	border-radius: 20px;
+	outline: none;
+}
